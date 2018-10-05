@@ -1,6 +1,5 @@
-Scripts Manifest
+Scripts
 ===
-
 
 ### Autocomplete Git commands and Branch names
 
@@ -16,6 +15,8 @@ fi
 ```
 
 ## Misc Brew Installs
+
+
 
 - node 
 
@@ -104,7 +105,7 @@ To update fastlane, just run [sudo] bundle update fastlane
 
 - Convert JSON to Swift codable models [https://github.com/nixzhu/Baby](https://github.com/nixzhu/Baby)
 
-### Macbook general configuration
+### Misc Macbook configuration
 
 Touch Bar Configuration
 
@@ -122,12 +123,8 @@ alias DeleteDerivedData='rm -rf ~/Library/Developer/Xcode/DerivedData'
 
 ### github ssh keys
 
-## older 
 
-Xcode side by side : ( older versions )
-https://developer.apple.com/download/more/
-
-## fastlane
+## fastlane notes
 
 fastlane test
 
